@@ -1,5 +1,5 @@
 ### Hi there, Im Hirosuke.  
-Hobbyist programmer of Minecraft Modder.  
+Hobbyist programmer of Minecraft Mod / Plugin.  
 Website: https://hirosuke.art  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hirosukee&show_icons=true&hide=issues,prs)](https://github.com/anuraghazra/github-readme-stats)  
