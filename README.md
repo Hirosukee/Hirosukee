@@ -2,7 +2,7 @@
 ✍ Hobbyist programmer of Minecraft Mod / Plugin.  
 
 ### 🌳 Links
-[![Homepage](https://img.shields.io/badge/_-Homepage-C75467.svg?style=for-the-badge&logoColor=white)](https://twitter.com/senohirosuke)
+[![Homepage](https://img.shields.io/badge/_-Homepage-C75467.svg?style=for-the-badge&logoColor=white)](https://hirosuke.art)
 [![Twitter](https://img.shields.io/badge/_-Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/senohirosuke)
 [![Discord](https://img.shields.io/badge/_-Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/A8XtpJhHrV)
 
