@@ -1,5 +1,5 @@
 ## Hi there, Im Hirosuke.  
-✍ Hobbyist programmer of Minecraft Mod / Plugin.  
+✍ Hobbyist programmer of Minecraft Mod / Plugin / Client.  
 
 ### 🌳 Links
 [![Homepage](https://img.shields.io/badge/_-Homepage-C75467.svg?style=for-the-badge&logoColor=white)](https://hirosuke.art)
