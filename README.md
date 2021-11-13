@@ -14,6 +14,7 @@
 [![HTML](https://img.shields.io/badge/_-Html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/ja/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/_-Css-1572B6.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/ja/docs/Web/CSS)
 [![CS](https://img.shields.io/badge/_-C_Sharp-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/ja-jp/dotnet/csharp/)
+[![SQLite](https://img.shields.io/badge/_-SQLite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
 
 ### ✏ Tools
 [![Vim](https://img.shields.io/badge/_-Vim-019733.svg?style=for-the-badge&logo=vim&logoColor=white)](https://www.vim.org/)
