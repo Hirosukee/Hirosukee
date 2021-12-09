@@ -22,5 +22,5 @@
 [![Github](https://img.shields.io/badge/_-Github-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
 ### ⚡ Status
-[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=Hirosukee&hide=contribs&count_private=true&show_icons=true)](https://github.com/ユーザ名/)
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hirosukee&layout=compact)](https://github.com/Hirosukee/)
+[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=Hirosukt&hide=contribs&count_private=true&show_icons=true)](https://github.com/ユーザ名/)
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hirosukt&layout=compact)](https://github.com/Hirosukee/)
