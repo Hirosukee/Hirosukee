@@ -18,6 +18,6 @@
 
 ### ⚡ Status
 <p align=left>
-  <img alt="top langs" height="128px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hirosukt&layout=compact"/>
-  <img alt="stats" height="128px" src="https://github-readme-stats.vercel.app/api?username=Hirosukt&hide=contribs&count_private=true&show_icons=true"/>
+  <img alt="top langs" height="148px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hirosukt&layout=compact"/>
+  <img alt="stats" height="148px" src="https://github-readme-stats.vercel.app/api?username=Hirosukt&hide=contribs&count_private=true&show_icons=true"/>
 </p>
