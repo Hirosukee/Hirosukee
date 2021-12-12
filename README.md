@@ -17,5 +17,7 @@
 [![Github](https://img.shields.io/badge/_-Github-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
 ### ⚡ Status
-[![my github stats](https://github-readme-stats.vercel.app/api?username=Hirosukt&hide=contribs&count_private=true&show_icons=true)](https://github.com/Hirosukt/)
-[](https://github-readme-stats.vercel.app/api/top-langs/?username=Hirosukt&layout=compact)
+<p align=left>
+  <img alt="top langs" height="128px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hirosukt&layout=compact"/>
+  <img alt="stats" height="128px" src="https://github-readme-stats.vercel.app/api?username=Hirosukt&hide=contribs&count_private=true&show_icons=true"/>
+</p>
