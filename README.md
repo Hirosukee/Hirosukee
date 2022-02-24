@@ -3,7 +3,7 @@
 
 ### 📚 Learning
 [![Kotlin](https://img.shields.io/badge/_-Kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
-[![Kotlin](https://img.shields.io/badge/_-TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![TypeScript](https://img.shields.io/badge/_-TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Java](https://img.shields.io/badge/_-Java-007396.svg?style=for-the-badge&logo=java&logoColor=white)](https://java.com/ja/)
 [![Gradle](https://img.shields.io/badge/_-Gradle-02303A.svg?style=for-the-badge&logo=gradle&logoColor=white)](https://gradle.org/)
 [![Python](https://img.shields.io/badge/_-Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -27,6 +27,6 @@
 
 ### ⚡ Status
 <p align=left>
-  <img alt="top langs" height="148px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hirosukt&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
-  <img alt="stats" height="148px" src="https://github-readme-stats.vercel.app/api?username=Hirosukt&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+  <img alt="top langs" height="148px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hirosukt&layout=compact&title_color=fefefe&icon_color=fefefe&text_color=cfcfcf&bg_color=1a1a1a"/>
+  <img alt="stats" height="148px" src="https://github-readme-stats.vercel.app/api?username=Hirosukt&count_private=true&show_icons=true&title_color=fefefe&icon_color=fefefe&text_color=cfcfcf&bg_color=1a1a1a"/>
 </p>
