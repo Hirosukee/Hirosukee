@@ -17,6 +17,7 @@
 [![Vim](https://img.shields.io/badge/_-Vim-019733.svg?style=for-the-badge&logo=vim&logoColor=white)](https://www.vim.org/)
 [![IntelliJ](https://img.shields.io/badge/_-IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/help/idea/2021.2/discover-intellij-idea.html)
 [![Github](https://img.shields.io/badge/_-Github-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Github](https://img.shields.io/badge/_-VSCode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 ### ⚡ Status
 <p align=left>
