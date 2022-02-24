@@ -1,5 +1,5 @@
 ## Hi there, Im Hirosuke.  
-✍ Hobbyist programmer of Minecraft Mod / Plugin / Client.  
+✍ Hobbyist programmer of Minecraft Mod / Plugin / Client / Discord Bot.  
 
 ### 📚 Learning
 [![Kotlin](https://img.shields.io/badge/_-Kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
