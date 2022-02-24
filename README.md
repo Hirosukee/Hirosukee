@@ -19,8 +19,14 @@
 [![Github](https://img.shields.io/badge/_-Github-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Github](https://img.shields.io/badge/_-VSCode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
+### 🌳 Social
+[![Twitter](https://img.shields.io/badge/_-Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hirosukt)
+[![Discord](https://img.shields.io/badge/_-Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://chihuyu.love)
+[![Spotify](https://img.shields.io/badge/_-Spotify-1DB954.svg?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31wg5leuznlbwyjidtx5ehr4j5cm?si=d75c36b307bf4ee2)
+[![Soundcloud](https://img.shields.io/badge/_-Soundcloud-FF3300.svg?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/cdy25hytfrly)
+
 ### ⚡ Status
 <p align=left>
-  <img alt="top langs" height="148px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hirosukt&layout=compact"/>
-  <img alt="stats" height="148px" src="https://github-readme-stats.vercel.app/api?username=Hirosukt&count_private=true&show_icons=true"/>
+  <img alt="top langs" height="148px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hirosukt&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+  <img alt="stats" height="148px" src="https://github-readme-stats.vercel.app/api?username=Hirosukt&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 </p>
