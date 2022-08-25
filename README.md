@@ -11,17 +11,11 @@
 [![CSS](https://img.shields.io/badge/_-Css-1572B6.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/ja/docs/Web/CSS)
 [![SQLite](https://img.shields.io/badge/_-SQLite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
 
-### ✏ Tools
-[![Vim](https://img.shields.io/badge/_-Vim-019733.svg?style=for-the-badge&logo=vim&logoColor=white)](https://www.vim.org/)
-[![IntelliJ](https://img.shields.io/badge/_-IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/help/idea/2021.2/discover-intellij-idea.html)
-[![Github](https://img.shields.io/badge/_-Github-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Github](https://img.shields.io/badge/_-VSCode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-
 ### 🌳 Social
 [![Twitter](https://img.shields.io/badge/_-Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hirosukt)
-[![Discord](https://img.shields.io/badge/_-Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://chihuyu.love)
 [![Spotify](https://img.shields.io/badge/_-Spotify-1DB954.svg?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31wg5leuznlbwyjidtx5ehr4j5cm?si=d75c36b307bf4ee2)
 [![Soundcloud](https://img.shields.io/badge/_-Soundcloud-FF3300.svg?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/cdy25hytfrly)
+[![HomePage](https://img.shields.io/badge/_-Website-1A73E8.svg?style=for-the-badge&logoColor=white)](https://hirosuke.works)
 
 ### ⚡ Status
 <p align=left>
