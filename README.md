@@ -1,6 +1,6 @@
 ## Hi there, Im Hirosuke.  
 ✍ Hobbyist programmer of 
-[Mod](https://www.curseforge.com/members/hirosukt/projects) / 
+[Mod](https://modrinth.com/user/hirosukt) / 
 [Plugin](https://www.spigotmc.org/resources/authors/hirosuke.1395001/) / 
 [Client](https://github.com/hirosukt?tab=repositories&q=hacked-client) / 
 [Discord Bot](https://github.com/hirosukt?tab=repositories&q=discord-bot).  
