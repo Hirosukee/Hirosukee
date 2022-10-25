@@ -4,9 +4,9 @@
 [Plugin](https://www.spigotmc.org/resources/authors/hirosuke.1395001/) / 
 [Discord Bot](https://github.com/hirosukt?tab=repositories&q=discord-bot).  
 
-### 🌳 [My Website](https://hirosuke.works)
+🌳 [My Website](https://hirosuke.works)
 
-### 📚 Learning
+## 📚 Learning
 [![Kotlin](https://img.shields.io/badge/_-Kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Java](https://img.shields.io/badge/_-Java-E16E01.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![Gradle](https://img.shields.io/badge/_-Gradle-02303A.svg?style=for-the-badge&logo=gradle&logoColor=white)](https://gradle.org/)
