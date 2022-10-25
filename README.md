@@ -13,4 +13,4 @@
 [![Rust](https://img.shields.io/badge/_-Rust-000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/ja)
 [![TypeScript](https://img.shields.io/badge/_-TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![SQLite](https://img.shields.io/badge/_-SQLite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
-[![Python](https://img.shields.io/badge/_-python-3776AB.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/_-python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
