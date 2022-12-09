@@ -1,10 +1,13 @@
-## Hi there, Im Hirosuke.  
+## Hi there, Im Hirosuke.
+
 ✍ Hobbyist programmer of 
 [Mod](https://modrinth.com/user/hirosukt) / 
 [Plugin](https://www.spigotmc.org/resources/authors/hirosuke.1395001/) / 
 [Discord Bot](https://github.com/hirosukt?tab=repositories&q=discord-bot).  
 
-🌳 [My Website](https://hirosuke.works)
+## 🔗 Browse
+[My Website](https://hirosuke.works)
+[My Playlists](https://soundcloud.com/hirosukt/sets)
 
 ## 📚 Learning
 [![Kotlin](https://img.shields.io/badge/_-Kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
