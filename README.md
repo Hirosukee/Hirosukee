@@ -6,7 +6,7 @@
 [Discord Bot](https://github.com/hirosukt?tab=repositories&q=discord-bot).  
 
 ## 🔗 Browse
-[My Website](https://hirosuke.works)  
+[My Website](https://hirosuke.works) / 
 [My Playlists](https://soundcloud.com/hirosukt/sets)
 
 ## 📚 Learning
