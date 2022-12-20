@@ -1,6 +1,6 @@
-## Hi there, Im Hirosuke.
+## ✋ Hi there, Im Hirosuke.
 
-✍ Hobbyist programmer of 
+Hobbyist programmer of 
 [Mod](https://modrinth.com/user/hirosukt) / 
 [Plugin](https://www.spigotmc.org/resources/authors/hirosuke.1395001/) / 
 [Discord Bot](https://github.com/hirosukt?tab=repositories&q=discord-bot).  
