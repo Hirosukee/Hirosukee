@@ -2,7 +2,7 @@
 
 Hobbyist programmer of 
 [Mod](https://modrinth.com/user/hirosukt) / 
-[Plugin](https://www.spigotmc.org/resources/authors/hirosuke.1395001/) / 
+[Plugin](https://modrinth.com/user/hirosukt) / 
 [Discord Bot](https://github.com/hirosukt?tab=repositories&q=discord-bot).  
 
 ## 🔗 Browse
