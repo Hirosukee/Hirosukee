@@ -6,7 +6,7 @@ Hobbyist programmer of
 [Discord Bot](https://github.com/hirosukt?tab=repositories&q=discord-bot).  
 
 ## 🔗 Browse
-[My Website](https://hirosuke.works) / 
+[My Website](https://hirosuke.me/) / 
 [My Playlists](https://soundcloud.com/hirosukt/sets)
 
 ## 📚 Learning
