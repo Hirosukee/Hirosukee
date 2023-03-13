@@ -2,8 +2,7 @@
 
 Hobbyist programmer of 
 [Mod](https://modrinth.com/user/hirosukt) / 
-[Plugin](https://modrinth.com/user/hirosukt) / 
-[Discord Bot](https://github.com/hirosukt?tab=repositories&q=discord-bot).  
+[Plugin](https://modrinth.com/user/hirosukt). 
 
 ## 🔗 Browse
 [My Website](https://hirosuke.me/) / 
