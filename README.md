@@ -1,8 +1,8 @@
 ## ✋ Hi there, Im Hirosuke.
 
 Hobbyist programmer of 
-[Mod](https://modrinth.com/user/hirosukt) / 
-[Plugin](https://modrinth.com/user/hirosukt). 
+[Mod](https://modrinth.com/user/hirosukt/mods/) / 
+[Plugin](https://modrinth.com/user/hirosukt/plugins/). 
 
 ## 🔗 Browse
 [My Website](https://hirosuke.me/) / 
