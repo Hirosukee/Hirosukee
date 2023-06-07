@@ -1,4 +1,4 @@
-## ✋ Hi there, Im Hirosuke.
+## 😎
 
 Hobbyist programmer of 
 [Mod](https://modrinth.com/user/hirosukt/mods/) / 
